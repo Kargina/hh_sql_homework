@@ -1,1 +1,1 @@
-# hh_sql_homework
+# Домашнее задание по SQL
